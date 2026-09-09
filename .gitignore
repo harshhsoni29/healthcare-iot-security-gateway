@@ -1,0 +1,12 @@
+# Python bytecode & cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local project cache / database
+offline_cache.json
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
